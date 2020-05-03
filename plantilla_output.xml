@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <introduction>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="public/validacion.xsd">
+    <introduction >
         <title>Anime News Network - News</title>
         <link>https://www.animenewsnetwork.com/news/</link>
         <description>ANN RSS feed</description>
